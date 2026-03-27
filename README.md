@@ -10,4 +10,6 @@ Dev tools: https://dev-tools-bcvo.onrender.com
 
 Very early web based among us: https://among-us-5beb.onrender.com
 
-Automated blog creation: https://frankyfzhou.github.io/AIDevBlogGen/
+Automated blog creation: https://github.com/frankyfzhou/AIDevBlogGen
+
+https://frankyfzhou.github.io/AIDevBlogGen/
