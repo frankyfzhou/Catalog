@@ -12,4 +12,4 @@ Very early web based among us: https://among-us-5beb.onrender.com
 
 Automated blog creation: https://github.com/frankyfzhou/AIDevBlogGen
 
-https://frankyfzhou.github.io/AIDevBlogGen/
+ - Blog https://frankyfzhou.github.io/AIDevBlogGen/
