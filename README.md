@@ -1,6 +1,6 @@
-Vibecoded projects list:
+Vibecoded projects:
 
-Eclipse 2nd dawn: https://eclipse-2e.azurewebsites.net/
+Eclipse 2nd dawn (based off board game): https://eclipse-2e.azurewebsites.net/
 
 OpenRA Web FE: https://openra-web-fe.azurewebsites.net/
 
